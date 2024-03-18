@@ -1,10 +1,10 @@
 # Foldery z najważniejszymi informacjami
 
-<details open>
+<details>
   <summary>📁 Main</summary>
   <ul>
     <li>
-      <details open>
+      <details>
         <summary>📁 Github</summary>
         <ul>
           <li><a href="https://www.tinyurl.com/ziombek">Ziombek</a></li>
@@ -12,11 +12,11 @@
       </details>
     </li>
     <li>
-      <details open>
+      <details>
         <summary>📁 Inne</summary>
         <ul>
           <li>
-            <details open>
+            <details>
               <summary>📁 Dokumentacja</summary>
               <ul>
                 <li><a href="https://www.tinyurl.com/Hasla438">Jak wyciągnąć hasła z serwera szkolnego</a></li>
@@ -24,7 +24,7 @@
             </details>
           </li>
           <li>
-            <details open>
+            <details>
               <summary>📁 Mały projekt</summary>
               <ul>
                 <li><a href="https://www.tinyurl.com/CrackiPL">CrackiPL</a></li>
@@ -32,7 +32,7 @@
             </details>
           </li>
           <li>
-            <details open>
+            <details>
               <summary>📁 Kontakt</summary>
               <ul>
                 <li>
