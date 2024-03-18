@@ -1,63 +1,58 @@
-# Linki krawata
+# Foldery z najważniejszymi informacjami
 
-
-<details>
-<summary>📁 Main</summary>
-<br>
-
-<details>
-<summary>&emsp;📁 Github</summary>
-<br>
-<a href="https://www.tinyurl.com/ziombek">Ziombkowy Generator Haseł</a>
+<details open>
+  <summary>📁 Main</summary>
+  <ul>
+    <li>
+      <details open>
+        <summary>📁 Github</summary>
+        <ul>
+          <li><a href="https://www.tinyurl.com/ziombek">Ziombek</a></li>
+        </ul>
+      </details>
+    </li>
+    <li>
+      <details open>
+        <summary>📁 Inne</summary>
+        <ul>
+          <li>
+            <details open>
+              <summary>📁 Dokumentacja</summary>
+              <ul>
+                <li><a href="https://www.tinyurl.com/Hasla438">Jak wyciągnąć hasła z serwera szkolnego</a></li>
+              </ul>
+            </details>
+          </li>
+          <li>
+            <details open>
+              <summary>📁 Mały projekt</summary>
+              <ul>
+                <li><a href="https://www.tinyurl.com/CrackiPL">CrackiPL</a></li>
+              </ul>
+            </details>
+          </li>
+          <li>
+            <details open>
+              <summary>📁 Kontakt</summary>
+              <ul>
+                <li>
+                  📁 Discord
+                  <ul>
+                    <li>krawat_</li>
+                  </ul>
+                </li>
+                <li>
+                  📁 Steam
+                  <ul>
+                    <li><a href="https://tinyurl.com/KrawatAlt">KrawatAlt</a></li>
+                    <li><a href="https://tinyurl.com/krawatMain">KrawatMain</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </details>
+          </li>
+        </ul>
+      </details>
+    </li>
+  </ul>
 </details>
-
-<details>
-<summary>&emsp;📁 Inne</summary>
-<br>
-
-<details>
-<summary>&emsp;&emsp;📁 Dokumentacja</summary>
-<br>
-<a href="https://www.tinyurl.com/Hasla438">Dokumentacja</a>
-</details>
-
-<details>
-<summary>&emsp;&emsp;📁 Mały projekt</summary>
-<br>
-<a href="https://www.tinyurl.com/CrackiPL">Mały projekt</a>
-</details>
-
-<details>
-<summary>&emsp;📁 Kontakt</summary>
-<br>
-
-<details>
-<summary>&emsp;&emsp;📁 Discord</summary>
-<br>
-krawat_
-</details>
-
-<details>
-<summary>&emsp;&emsp;📁 Steam</summary>
-<br>
-<a href="https://tinyurl.com/KrawatAlt">Steam - KrawatAlt</a><br>
-<a href="https://tinyurl.com/krawatMain">Steam - KrawatMain</a>
-</details>
-
-</details>
-
-```
-📁 Main
-├📁 Github
-│ └📄 https://www.tinyurl.com/ziombek
-└📁 Inne
-  ├📁 Dokumentacja
-  │ └📄 https://www.tinyurl.com/Hasla438
-  ├📁 Mały projekt
-  │ └📄 https://www.tinyurl.com/CrackiPL
-  └📁 Kontakt
-    ├📁 Discord
-    │ └📄 krawat_
-    └📁 Steam
-      ├📄 https://tinyurl.com/KrawatAlt
-      └📄 https://tinyurl.com/krawatMain
