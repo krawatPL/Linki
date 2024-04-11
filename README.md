@@ -19,7 +19,7 @@
             <details>
               <summary>📁 Dokumentacja</summary>
               <ul>
-                <li><a href="https://www.tinyurl.com/Hasla438">📄 Jak wyciągnąć hasła z serwera szkolnego</a></li>
+                <li><a href="https://gist.githubusercontent.com/krawatPL/1e3ea0e3af94465bf96595f5b6bc6df3/raw/c03b2b49a8c4f24a318003c8f2814d9cb5dd6ea5/gistfile1.txt">📄 Jak wyciągnąć hasła z serwera szkolnego</a></li>
               </ul>
             </details>
           </li>
